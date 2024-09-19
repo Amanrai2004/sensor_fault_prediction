@@ -39,16 +39,8 @@ The dataset includes time series measurements from sensors, with potential disco
 
 1. **Traditional ML Techniques**:
    - Support Vector Machine (SVM)
-   - Artificial Neural Network (ANN)
-   - Fuzzy Neural Network (FNN)
    - Decision Trees (DT)
-   - Bayesian Network (BN)
-
-2. **Deep Learning Techniques**:
-   - Denoising Stacked Auto-Encoder
-   - Long Short-Term Memory Network (LSTM)
-   - Self-Attentive Convolutional Neural Networks
-
+   - Bayesian Network 
 ### Evaluation
 
 1. **Metrics**: Precision, recall, F1-score, accuracy.
